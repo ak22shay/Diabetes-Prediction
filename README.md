@@ -1,5 +1,5 @@
 # Diabetes Prediction using Machine Learning
-Diabetes is a chronic health condition that results in high blood sugar. It is a serious health issue and a precursor to life threatning conditions like a heart-stroke. We use Machine Learning techniques to predict if a patient has chances of having diabetes. Detecting Diabetes at an early stage helps prevent serious symptoms by making an individual aware of current condition help them transition into making healthy lifestyle choices.
+Diabetes is a chronic health condition that results in high blood sugar. It is a serious health issue and a precursor to life threatning conditions like a heart-stroke. We use Machine Learning techniques to predict if a female patient has chances of having diabetes. Detecting Diabetes at an early stage helps prevent serious symptoms by making an individual aware of current condition help them transition into making healthy lifestyle choices.
 
 ## About the dataset
 The dataset was collected and made available by “National Institute of Diabetes and Digestive and Kidney Diseases” as a part of the Pima Indians Diabetes Database
